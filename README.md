@@ -79,4 +79,10 @@ git add README.md
 
 git add . 
 
-git commit -m "Merged development to main"
+git commit -m "Merged development to main with changes"
+
+git remote add origin https://github.com/your_git_name/RepositoryName.git
+
+git branch -M main
+
+git push -u origin main
