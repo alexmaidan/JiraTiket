@@ -71,4 +71,12 @@ git status
 
 12.Закомітьте зміни
 
+Якщо зміни необхідні, то відкриваємо файл и робимо їх і виконуємо коміт:
+
+notepad README.md
+
+git add README.md
+
+git add . 
+
 git commit -m "Merged development to main"
